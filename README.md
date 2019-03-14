@@ -1,6 +1,9 @@
 # Weather-App-with-Expo
 A simplistic weather app built with expo "the easiest way to build an app"
 
+![App in action](https://github.com/mattbhenley/Images/blob/master/simplistic-weather-app.gif)
+
+
 ## Simplistic-Weather-App-with-Expo
 A simplistic weather app built with expo "the easiest way to build an app"
 
@@ -22,3 +25,5 @@ Open Expo Client on your device. Use it to scan the QR code printed by ```expo s
 
 ## Work on your project 
 Select your favorite editor, open your-project/App.js, and start building!
+
+![Sunny screen](https://github.com/mattbhenley/Images/blob/master/sunny-weather.png)
